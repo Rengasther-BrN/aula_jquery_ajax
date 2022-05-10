@@ -1,6 +1,9 @@
 # aula_jquery_ajax
  
-<p>Course DIO</p>
+<h1>Course DIO</h1>
+
+<p>The project does a search for the zip code and returns all the characters of the address
+</p>
 
 ### Features:
 
