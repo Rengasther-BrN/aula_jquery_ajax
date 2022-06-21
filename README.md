@@ -2,7 +2,7 @@
  
 <h1>Course DIO</h1>
 
-<p>The project does a search for the zip code and returns all the characters of the address
+<p>The project does a search for the zip code and returns all the datas of the address
 </p>
 
 ### Features:
